@@ -12,6 +12,7 @@ The font is licensed under the SIL Open Font License, permitting, among other, c
 See more: https://openfontlicense.org/open-font-license-official-text/
 
 Designer: Tilen Kos 2026
+
 Version: 1.0
 
 <img width="1347" height="884" alt="image" src="https://github.com/user-attachments/assets/2194fba8-e610-4980-b516-94f601a36832" />
