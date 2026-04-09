@@ -5,7 +5,7 @@ Inspired by logo of independent student journal of University of Architecture at
 ↳ of which I am co-founder
 ↳ the logo is my original design
 
-The font is constructed on a base 3×3 grid, where reasonable ('S' and tall glyphs (including '&') are exceptions). The 'x' size – applied to numbers too – is smaller by a ratio of `e - 1` to a single field of the base grid.
+The font is constructed on a base 3×3 grid, where reasonable ('S' and tall glyphs (including '&') are exceptions). The 'x' size – applied to numbers too – is smaller by a ratio of `√2 - 1` to a single field of the base grid.
 Supports several diacritics, applicable to most European languages, however available glyphs may vary. Font is Mac and Windows compatible.
 
 The font is licensed under the SIL Open Font License, permitting, among other, commercial use and modification.
